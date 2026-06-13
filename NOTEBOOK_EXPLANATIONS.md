@@ -21,7 +21,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ## 🔍 EDA (Exploratory Data Analysis) Notebooks
 
-### **1. `4. Fine tune OpenAI GPT model __ 1.2 eda.ipynb`**
+### **1. `02. OpenAI GPT model __ 1.2 eda.ipynb`**
 
 **Purpose**: Initial exploration and cleaning of the BBC dataset
 
@@ -54,7 +54,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **2. `4. Fine tune OpenAI GPT model __ 2.2 eda.ipynb`**
+### **2. `02. OpenAI GPT model __ 2.2 eda.ipynb`**
 
 **Purpose**: Similar to 1.2 - Exploratory Data Analysis and cleaning
 
@@ -67,7 +67,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **3. `4. Fine tune OpenAI GPT model __ 3.2 eda.ipynb`**
+### **3. `. OpenAI GPT model __ 3.2 eda.ipynb`**
 
 **Purpose**: Third iteration of EDA and data preparation
 
@@ -80,7 +80,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **4. `4. Fine tune OpenAI GPT model __ 4.1 eda.ipynb`**
+### **4. `02. OpenAI GPT model __ 4.1 eda.ipynb`**
 
 **Purpose**: Fourth iteration of EDA with data analysis
 
@@ -93,7 +93,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **5. `4. Fine tune OpenAI GPT model __ 6.1 eda.ipynb`**
+### **5. `02. OpenAI GPT model __ 6.1 eda.ipynb`**
 
 **Purpose**: Final comprehensive EDA before fine-tuning
 
@@ -108,7 +108,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ## 🚀 Fine-Tuning Notebooks
 
-### **6. `4. Fine tune OpenAI GPT model __ 7.1 fine-tune.ipynb`**
+### **6. `02. OpenAI GPT model __ 7.1 fine-tune.ipynb`**
 
 **Purpose**: Fine-tune OpenAI GPT-3.5-turbo model using prepared training data
 
@@ -162,7 +162,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **7. `4. Fine tune OpenAI GPT model __ 9.1 fine-tune.ipynb`**
+### **7. `02. OpenAI GPT model __ 9.1 fine-tune.ipynb`**
 
 **Purpose**: Repeat fine-tuning with different hyperparameters or data
 
@@ -177,7 +177,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **8. `4. Fine tune OpenAI GPT model __ 10.1 fine-tune.ipynb`**
+### **8. `02. OpenAI GPT model __ 10.1 fine-tune.ipynb`**
 
 **Purpose**: Third fine-tuning iteration
 
@@ -192,7 +192,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ## 📈 Evaluation Notebooks
 
-### **9. `4. Fine tune OpenAI GPT model __ 11.1 evaluation.ipynb`**
+### **9. `02. OpenAI GPT model __ 11.1 evaluation.ipynb`**
 
 **Purpose**: Evaluate the performance of the fine-tuned model
 
@@ -245,7 +245,7 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 
 ---
 
-### **10. `4. Fine tune OpenAI GPT model __ 12.1 evaluation.ipynb`**
+### **10. `02. OpenAI GPT model __ 12.1 evaluation.ipynb`**
 
 **Purpose**: Second evaluation run on the fine-tuned model
 
@@ -392,5 +392,3 @@ This guide provides detailed explanations for each Jupyter notebook in this proj
 ✅ Text classification fundamentals  
 
 ---
-
-**Happy Learning! 🚀**
