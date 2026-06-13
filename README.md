@@ -1,6 +1,10 @@
 # Fine-tune-OpenAI-GPT
 
 
+https://github.com/user-attachments/assets/e243d6b6-30b0-4f6d-b568-aec7e2ad6289
+
+
+
 ## Introduction
 Large Language Models (LLMs) have transformed the landscape of Natural Language Processing (NLP) by offering impressive capabilities in understanding and generating human-like text. Fine-tuning these models allows for customization to specific tasks, improving their performance and relevance in various applications. 
 
