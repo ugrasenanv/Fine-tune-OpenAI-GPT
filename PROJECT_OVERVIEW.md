@@ -1,4 +1,4 @@
-# Project Overview & Visual Guide
+# Project Overview and Visual Guide
 
 ## 📚 What is This Project?
 
